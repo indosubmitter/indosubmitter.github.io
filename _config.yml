@@ -4,7 +4,8 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://khanna.cc"
+#url: "https://khanna.cc"
+url: "https://indosubmitter.github.io"
 baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
@@ -61,22 +62,22 @@ footer-link-col: "#404040"
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Harry Khanna
-  twitter: hkhanna
+  name: admin
+  #twitter: hkhanna
 
 # Select your active Social Network Links.
 # Uncomment the links you want to show in the footer and add your information to each link.
 # You can reorder the items to define the link order.
 # If you want to add a new link that isn't here, you'll need to also edit the file _data/SocialNetworks.yml
 social-network-links:
-  rss: true
+  rss: false
 #  email: "someone@example.com"
 #  facebook: daattali
-  github: hkhanna
-  twitter: hkhanna
+#  github: hkhanna
+#  twitter: hkhanna
 #  reddit: yourname
 #  google-plus: +DeanAttali
-  linkedin: harry-khanna
+#  linkedin: harry-khanna
 #  xing: yourname
 #  stackoverflow: "3943160/daattali"
 #  snapchat: deanat78
@@ -93,16 +94,17 @@ share-links-active:
   twitter: true
   facebook: true
   google: false
-  linkedin: true
+  linkedin: false
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "https://khanna.cc"  # eg. "deanattali.com/beautiful-jekyll"
+#url-pretty: "https://khanna.cc"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "https://indosubmitter.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Web Statistics Section --- #
 
 # Fill in your Google Analytics gtag.js ID to track your website using gtag
-gtag: "UA-61256175-3"
+#gtag: "UA-61256175-3"
 
 # Fill in your Google Analytics ID to track your website using GA
 #google_analytics: ""
@@ -156,7 +158,7 @@ title-separator: "-"
 # --- Don't need to touch anything below here (but you can if you want) --- #
 
 # Output options (more information on Jekyll's site)
-timezone: "America/New_York"
+timezone: "Indonesia/Jakarta"
 markdown: kramdown
 highlighter: rouge
 permalink: /blog/:title/
