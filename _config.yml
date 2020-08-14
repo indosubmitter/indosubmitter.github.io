@@ -24,7 +24,7 @@ description: There is no deity except Him
 
 # List of links in the navigation bar
 navbar-links:
-  Attorney Bio: "attorney"
+  #Attorney Bio: "attorney"
   Blog: "blog"
   Notes: "notes"
 
