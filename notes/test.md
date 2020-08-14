@@ -54,20 +54,20 @@ Let us check it with this <code>Code 19</code>, and see its awesomeness :(far fa
 
 ### It&#39;s connected to all initial letters in Quran chapters.
 <!-- <img src="002.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;"> -->
-{{< figure src="002.png" title="" >}}
+{{< figure src="https://indosubmitter.github.io/notes/002.png" title="" >}}
 
 <br/><br/>
 ### All letters occurrences base on Basmalah letters.
 From here, we all can see that the Basmalah, the Crown of Quran and its letters could also act as a Guardian or Quick Tester.  
 <!-- <img src="003.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;"> -->
-{{< figure src="003.png" title="" >}}
+{{< figure src="https://indosubmitter.github.io/notes/003.png" title="" >}}
 
 <br/><br/>
 ### All letters occurrences base on unique Basmalah letters.
 Again, the Basmalah act as a Guardian or Quick Tester.  
 
 <!-- <img src="004.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;"> -->
-{{< figure src="004.png" title="" >}}
+{{< figure src="https://indosubmitter.github.io/notes/004.png" title="" >}}
 **2393** is Gv for [7:68] and [32:13].
 > <Code>[7:68]</Code> _I convey to you the messages of my Lord, and I am to you a trustworthy advisor._ <br/>
 > <Code>[32:13]</Code> _If We had wished, We could have given every person its guidance, but the word from Me has taken effect, that I will fill Hell with Jinn and Humans all together!_  
@@ -78,7 +78,7 @@ These are occurrences of letters base on all initial letters in every chapters. 
 
 #### Pairs #1: A.L.M
 <!-- <img src="005.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;"> -->
-{{< figure src="005.png" title="" >}}
+{{< figure src="https://indosubmitter.github.io/notes/005.png" title="" >}}
 
 **1046** is Gv for [95:7], **1702** is Gv for [38:2], **2748** is Gv for [99:6], **523** is Gv for [38:56] and [55:2].
 > <Code>[95:7]</Code> _&quot;So after this, what would make you deny the judgment?&quot;_  
@@ -89,7 +89,7 @@ These are occurrences of letters base on all initial letters in every chapters. 
 
 <br/><br/>
 #### Pairs #2: A.L.M.S - A.L.R - A.L.M.R - N
-<img src="006.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
+<img src="https://indosubmitter.github.io/notes/006.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
 
 **815** is Gv for [50:24], **1595** is Gv for [22:49], [26:54], and [26:218]. **2410** is Gv for [10:96], and **241** is Gv for [1:4]. Let's decode it ..  
 > <Code>[50:24]</Code> _&quot;Throw into Hell every stubborn rejecter!&quot;_  
@@ -101,14 +101,14 @@ These are occurrences of letters base on all initial letters in every chapters. 
 
 <br/><br/>
 #### Pairs 4#: K.H.Y.'A.S
-<img src="007.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
+<img src="https://indosubmitter.github.io/notes/007.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
 
 **313** is Gv for [80:8]  
 > <Code>[80:8]</Code> _&quot;[Except] The one who came to you eagerly [for this wisdom]&quot;_
 
 <br/><br/>
 #### Pairs 5#: YS - S
-<img src="008.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
+<img src="https://indosubmitter.github.io/notes/008.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
 
 **1260** is Gv for [89:6], and **1283** is Gv for [10:62]
 > <code>[89:6]</code> _&quot;Did you not see what your Lord did to &#39;Aad?&quot;_
@@ -116,7 +116,7 @@ These are occurrences of letters base on all initial letters in every chapters. 
 
 <br/><br/>
 #### Pairs 6#: H.M
-<img src="009.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
+<img src="https://indosubmitter.github.io/notes/009.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
 
 **2247** is Gv for [72:1], and **2484** is Gv for [27:89]
 > <code>[72:1]</code> _&quot;Say, &#39;It has been revealed to me that a group of Jinn listened, and said, &#39;Indeed, we have heard an amazing reads/Quran&#39;&quot;_
@@ -124,14 +124,14 @@ These are occurrences of letters base on all initial letters in every chapters. 
 
 <br/><br/>
 #### Pattern 7#: Q
-<img src="010.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
+<img src="https://indosubmitter.github.io/notes/010.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
 
 
 ### Separation.
-<img src="011.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
+<img src="https://indosubmitter.github.io/notes/011.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
 
 ### Let&#39;s exclude all initial letters in its chapter from our calculation, and see what happen.
-<img src="012.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
+<img src="https://indosubmitter.github.io/notes/012.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
 
 **673** is Gv for [98:3].
 > <code>[98:3]></code> _&quot;Within which are correct writings.&quot;_
@@ -139,4 +139,3 @@ These are occurrences of letters base on all initial letters in every chapters. 
 <br/><br/>
 ## **Conclusions:**
 > <Code>[41:53]</Code>  _We will show them Our signs in the horizons, and within themselves, until it becomes clear to them that this is the truth. [But] Is it not enough that your Lord is a witness over all things?_ <Code>[74:16]</Code>  _No, he was instead stubborn to Our signs._ <Code>[74:35]</Code>  _[Whereas] it is one of the greatest_ <Code>[74:36]</Code>  _as a warning to people_ <Code>[74:37]</Code>  _for any among you who wishes to progress/advance or regress/lag behind._ <Code>[74:49]</Code>  _[But] why did they turn away from this reminder,_ <Code>[74:50]</Code>  _like fleeing Zebra_ <Code>[74:51]</Code>  _running from a Lion?_ <Code>[2:87]</Code>... _Is it not a fact that every time a messenger went to you with anything you disliked your ego caused you to be arogant, some of them you rejected, and some of them you killed?_ <Code>[46:10]</Code>  _Say, have you ever thought: how if what you deny is really from God, which a witness from the children of Israel has witnessed the same phenomenon and he believed, while you turn away arrogantly? Surely, God does not guide the wicked people!_ <Code>[47:38]</Code>  _... And if you indeed turn away, He will replace you with another people, then they will not be like you!_
-
