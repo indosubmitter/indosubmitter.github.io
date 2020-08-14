@@ -53,8 +53,10 @@ And this is what Rashad did not explain on his articles, about how this <code>Co
 Let us check it with this <code>Code 19</code>, and see its awesomeness :(far fa-grin-squint fa-fw):
 
 ### It&#39;s connected to all initial letters in Quran chapters.
-<img src="002.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;">
-{{< figure src="https://indosubmitter.github.io/notes/002.png" title="" >}}
+<!-- <img src="002.png" style="height: auto; max-width: 100%; display: block; margin-left: auto;  margin-right: auto;"> -->
+![](002.png)
+
+<!-- {{< figure src="https://indosubmitter.github.io/notes/002.png" title="" >}} -->
 
 <br/><br/>
 ### All letters occurrences base on Basmalah letters.
