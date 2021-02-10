@@ -25,8 +25,8 @@ description: Tidak ada ilah selain Tuhan, Dia saja, dan tidak ada mitra bersamaN
 # List of links in the navigation bar
 navbar-links:
   #Attorney Bio: "attorney"
-  #Blog: "blog"
-  #Notes: "notes"
+  Blog: "blog"
+  Notes: "notes"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
